@@ -1,5 +1,5 @@
 # Problem 2
-- I worked with:
+- I worked with (if anyone):
 
 ## Precursors
  - SQL to generate needed table
@@ -31,7 +31,7 @@
 ```
 
 ## Part D
-- **Answer:** N/A, but don't forget to upload your file!
+- **Answer: Don't forget to upload your file!**
 ```sql
 
 ```
