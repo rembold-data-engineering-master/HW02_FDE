@@ -9,5 +9,3 @@ Make sure when all is said and done that you have uploaded material that contain
 * The completed template files with your solutions and SQL commands
 * Your newly created CSV files from questions that required an export
 
-
-Due: Jan 29, 2023

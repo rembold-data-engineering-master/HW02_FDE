@@ -1,4 +1,4 @@
-# Problem 3
+# Problem 2
 - I worked with (if anyone):
 
 ## Precursors
@@ -12,25 +12,19 @@
    ```
 
 
-## Part A
+## Bullet 1
  - **Answer:**
 ```sql
 
 ```
 
-## Part B
+## Bullet 2
 - **Answer:**
 ```sql
 
 ```
 
-## Part C 
-- **Answer:**
-```sql
-
-```
-
-## Part D
+## Bullet 3
 - **Answer: Don't forget to upload your file!**
 ```sql
 
